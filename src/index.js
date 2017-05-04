@@ -7,6 +7,7 @@ class App extends Component {
     return(
       <div>
     Let' Get this Party Started
+   <img src='https://udemy-images.udemy.com/course/480x270/1037666_91c9_2.jpg' />
       </div>
     )
   }
