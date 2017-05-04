@@ -19,6 +19,7 @@
     "postinstall": "webpack"
   },
   "devDependencies": {
+    "nodemon": "^1.11.0",
     "webpack-dev-server": "^2.4.5"
   }
 }
